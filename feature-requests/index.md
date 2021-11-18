@@ -1,4 +1,6 @@
-# Feature Requests (Historic)
+# ⚙ Feature Requests (Historic)
+
+
 
 |Feature                                         |Requested|Implimented|Community Poll|
 |------------------------------------------------|---------|-----------|--------------|
@@ -32,3 +34,4 @@
 |Follow artists                                  |12       |           |              |
 |Favorite art/collections                        |         |           |              |
 |Secondary market stats                          |27       |           |              |
+|Fr rarity rank||||
