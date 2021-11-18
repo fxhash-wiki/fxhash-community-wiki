@@ -8,7 +8,7 @@ Request number dirived from polls
 |------------------------------------------------|---------|-----------|--------------|
 |Artist verification                             |37       |✅          |              |
 |Tez addr on profile                             |16       |✅          |              |
-|Beta test roll                                  |26       |           |              |
+|Beta test role                                  |26       |           |              |
 |Discord Bot to show minting                     |         |           |              |
 |Reduce Minting Clutter                          |         |           |              |
 |Filter to remove 100% minted proj               |         |           |              |
