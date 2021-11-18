@@ -1,6 +1,8 @@
-# ⚙ Feature Requests (Historic)
+# ⚙ Feature Requests
 
+Historic feature requests made in our [discord channel](https://discord.gg/WDXQtzM4).
 
+Request number dirived from polls
 
 |Feature                                         |Requested|Implimented|Community Poll|
 |------------------------------------------------|---------|-----------|--------------|
@@ -35,3 +37,14 @@
 |Favorite art/collections                        |         |           |              |
 |Secondary market stats                          |27       |           |              |
 |Fr rarity rank||||
+|Show original mint price||||
+|stop objkts from running immidiately on phone||||
+|External calls in token||||
+|pre-open period which is mint only||||
+|mint button disabled when market is closed||||
+|icons to show if piece has sound||||
+|icons to show if piece is animated/static||||
+|search sort features||||
+|append query to marketplace url||||
+|market place sort features: collection/artist||||
+|Notation of messed up metadata from bad mints||||
