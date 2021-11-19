@@ -16,5 +16,7 @@
 
 ## List of badly indexed mints
 * 5 day delayed -- https://www.fxhash.xyz/objkt/10577 
+* https://www.fxhash.xyz/objkt/32764
 ### #64's
 https://www.fxhash.xyz/objkt/10577
+https://www.fxhash.xyz/objkt/34922 [nsfw]
