@@ -18,7 +18,13 @@
 | :---                      | :---| :---   |
 |https://www.fxhash.xyz/objkt/10577 |5 day delayed||
 |https://www.fxhash.xyz/objkt/32764 |||
-
+|https://www.fxhash.xyz/objkt/20709 |loom||
+|https://www.fxhash.xyz/objkt/18626 |loom|| 
+|https://www.fxhash.xyz/objkt/18529 |loom||
+|https://www.fxhash.xyz/objkt/18523 |loom||
+|https://www.fxhash.xyz/objkt/17784 |loom||
+|https://www.fxhash.xyz/objkt/16920 |loom||
+|
 |#64    | status      |
 | :---  | :---        | 
 |https://www.fxhash.xyz/objkt/10577 ||
