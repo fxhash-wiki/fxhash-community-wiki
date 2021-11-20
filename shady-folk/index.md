@@ -13,3 +13,4 @@ Key
 | ordure | tz1VE1gFxMZ5TVCwWaYpXGANcfhyjgiUGkpg | 🦝 |
 | AMAZA | tz1c9JjRt7heN7uB5h7jLr1me34y2pqJ7aHK | 🦝 |
 | Esotero | tz1S1jw7pCVkGMUaGPxfEdoKPbg7xKhbXvhf | 🦝 |
+| Shiny's | tz1WoMMMsKVSeULL3XJFbRt7xvfMr9AQV5Uz | 🦝 |
