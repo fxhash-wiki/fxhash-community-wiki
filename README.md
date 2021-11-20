@@ -9,3 +9,9 @@ Website: [fxhash.xyz](http://fxhash.xyz)
 Twitter: [@fx_hash_](http://twitter.com/fx_hash)
 
 Join our discord: [discord](https://discord.gg/PQXYvMnD). 
+
+## table of contents
+
+- [🐛 Bugs](./bugs)
+- [✅ Feature requests](./feature-requests)
+- [🦝 Shady folk](./shady-folk)
