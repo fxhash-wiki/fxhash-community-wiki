@@ -26,6 +26,8 @@
 | https://www.fxhash.xyz/objkt/18523 | loom          |
 | https://www.fxhash.xyz/objkt/17784 | loom          |
 | https://www.fxhash.xyz/objkt/16920 | loom          |
+|https://www.fxhash.xyz/objkt/19832 |chaos cluster||
+|https://www.fxhash.xyz/objkt/27926 |isomatrix ||
 
 | #64                                       | status |
 | :---------------------------------------- | :----- |
