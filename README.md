@@ -1,6 +1,6 @@
 # fxhash community wiki
 
-![FXHash Logo]("img/logo.png")
+![FXHash Logo](img/logo.png)
 
 Welcome to the fxhash community wiki repo! This is the house for all pages which power our community wiki.
 
