@@ -48,3 +48,16 @@ Request number dirived from polls
 |append query to marketplace url||||
 |market place sort features: collection/artist||||
 |Notation of messed up metadata from bad mints||||
+|Disable mint token for minted out projects                   |         |           |              |
+|load a new hash in the preview before minting instead of just reloading it with the same one       |5       |           |              |
+|download an exclusive high-res file|       5  |           |              |
+|Ogfer function                                  |10    |           |              |
+|Sort feature (price/rarity/new/etc)                       |       10  |           |              |
+|Mint price visible after minting out                          |5 |           |              |
+|Burn feature                    |  10       |           |              |
+|Full artist details on the project page       |5       |           |              |
+|Tez address clickable to https://tzkt.io/, so we can verify the account easily? + account/wallet age |      10   |           |              |
+|Updated Rarity calculation|10       |           |              |
+|add IPFS link/hash in the page of each token (metadata)||||
+| put the total project size (in KB) on the project page|15|||
+|Full on chain svgs - no ifps dependency| 5|||
