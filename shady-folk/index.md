@@ -7,6 +7,7 @@ Key
 - 🦝 Shady character
 - 👛 Suspicious wallets
 
+
 | Name | Wallet address | Kind | Notes |
 | :--- | :--- | :---: | :--- |
 | shvemdlbr | tz1gWJSTHpi5HzFzRcAbqm4uAryBeGP8APC7 | 💀 | |
