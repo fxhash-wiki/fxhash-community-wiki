@@ -36,28 +36,27 @@ Request number dirived from polls
 |Follow artists                                  |12       |           |              |
 |Favorite art/collections                        |         |           |              |
 |Secondary market stats                          |27       |           |              |
-|Fr rarity rank||||
-|Show original mint price||||
-|stop objkts from running immidiately on phone||||
-|External calls in token||||
-|pre-open period which is mint only||||
-|mint button disabled when market is closed||||
-|icons to show if piece has sound||||
-|icons to show if piece is animated/static||||
-|search sort features||||
-|append query to marketplace url||||
-|market place sort features: collection/artist||||
-|Notation of messed up metadata from bad mints||||
-|Disable mint token for minted out projects                   |         |           |              |
+|Fr rarity rank                                  |         |           |              |
+|Show original mint price                        |         |           |              |
+|stop objkts from running immidiately on phone   |         |           |              |
+|External calls in token                         |         |           |              |
+|pre-open period which is mint only              |         |           |              |
+|mint button disabled when market is closed      |         |           |              |
+|icons to show if piece has sound                |         |           |              |
+|icons to show if piece is animated/static       |         |           |              |
+|search sort features                            |         |           |              |
+|append query to marketplace url                 |         |           |              |
+|market place sort features: collection/artist   |         |           |              |
+|Notation of messed up metadata from bad mints   |         |           |              |
+|Disable mint token for minted out projects      |         |           |              |
 |load a new hash in the preview before minting instead of just reloading it with the same one       |5       |           |              |
-|download an exclusive high-res file|       5  |           |              |
-|Ogfer function                                  |10    |           |              |
-|Sort feature (price/rarity/new/etc)                       |       10  |           |              |
-|Mint price visible after minting out                          |5 |           |              |
-|Burn feature                    |  10       |           |              |
-|Full artist details on the project page       |5       |           |              |
+|download an exclusive high-res file             |       5  |           |              |
+|Sort feature (price/rarity/new/etc)             |       10 |           |              |
+|Mint price visible after minting out            |5         |           |              |
+|Burn feature                                    |  10       |           |              |
+|Full artist details on the project page         |5       |           |              |
 |Tez address clickable to https://tzkt.io/, so we can verify the account easily? + account/wallet age |      10   |           |              |
-|Updated Rarity calculation|10       |           |              |
+|Updated Rarity calculation                      |10       |           |              |
 |add IPFS link/hash in the page of each token (metadata)||||
 | put the total project size (in KB) on the project page|15|||
 |Full on chain svgs - no ifps dependency| 5|||
