@@ -1,5 +1,7 @@
 # fxhash community wiki
 
+![FXHash Logo]["img/logo.png"]
+
 Welcome to the fxhash community wiki repo! This is the house for all pages which power our community wiki.
 
 fxhash is an open platform where artists can mint Generative Tokens which are stored on the [Tezos](https://tezos.com/) blockchain. 
