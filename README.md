@@ -14,6 +14,7 @@ Join our discord: [discord](https://discord.gg/PQXYvMnD).
 
 ## table of contents
 
-- [🐛 Bugs](./bugs)
+- [🔧 Useful Tools](./tools)
 - [✅ Feature requests](./feature-requests)
+- [🐛 Bugs](./bugs)
 - [🦝 Shady folk](./shady-folk)
