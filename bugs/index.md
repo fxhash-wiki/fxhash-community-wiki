@@ -31,5 +31,6 @@
 
 | #64                                       | status |
 | :---------------------------------------- | :----- |
+| https://www.fxhash.xyz/objkt/8198||
 | https://www.fxhash.xyz/objkt/10577        |
 | https://www.fxhash.xyz/objkt/34922 [nsfw] |
