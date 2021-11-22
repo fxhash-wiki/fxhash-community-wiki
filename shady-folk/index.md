@@ -10,6 +10,7 @@ Key
 
 | Name         | Wallet address                       | Kind  | Notes |
 | :----------- | :----------------------------------- | :---: | :---- |
+| Ordue + accociated accounts|tz1bECb43WtFFjT3aTGKvXqVeqBde32sYjyT|💀||
 | shvemdlbr    | tz1gWJSTHpi5HzFzRcAbqm4uAryBeGP8APC7 | 💀    |       |
 | Piter Plasma | tz1bPH8iGtspVfrV2hG9jckpRF9KdhUeubtE | 💀    |       |
 | ordure       | tz1VE1gFxMZ5TVCwWaYpXGANcfhyjgiUGkpg | 🦝    |       |
