@@ -10,16 +10,22 @@ Key
 
 | Name         | Wallet address                       | Kind  | Notes |
 | :----------- | :----------------------------------- | :---: | :---- |
-| Ordue + accociated accounts|tz1bECb43WtFFjT3aTGKvXqVeqBde32sYjyT|💀||
+| Ordue + associated accounts|tz1bECb43WtFFjT3aTGKvXqVeqBde32sYjyT, tz1VE1gFxMZ5TVCwWaYpXGANcfhyjgiUGkpg|💀| [profile](https://www.fxhash.xyz/pkh/tz1VE1gFxMZ5TVCwWaYpXGANcfhyjgiUGkpg)|
 | shvemdlbr    | tz1gWJSTHpi5HzFzRcAbqm4uAryBeGP8APC7 | 💀    |       |
 | Piter Plasma | tz1bPH8iGtspVfrV2hG9jckpRF9KdhUeubtE | 💀    |       |
 | ordure       | tz1VE1gFxMZ5TVCwWaYpXGANcfhyjgiUGkpg | 🦝    |       |
 | AMAZA        | tz1c9JjRt7heN7uB5h7jLr1me34y2pqJ7aHK | 🦝    |       |
 | Esotero      | tz1S1jw7pCVkGMUaGPxfEdoKPbg7xKhbXvhf | 🦝    |       |
 | Shiny's      | tz1WoMMMsKVSeULL3XJFbRt7xvfMr9AQV5Uz | 🦝    |       |
-| Value of art | tz1XgxRZBTMNcZYAHAZxpnoxmTGgqUNauiuE | 🦝    |
-| Eric Anziani | tz1RpYJVN4Ui9RNUvcayWng4MJ9fWwHS55aD  |👛 | [profile](https://www.fxhash.xyz/u/Eric%20Anziani)
-| Eric Anziani | tz1hTvrgwQ3Yxof9yhdBFBQ8DCQocHXaHX5W   |👛 | [profile](https://www.fxhash.xyz/u/Eric%20Anziani)
-| Eric Anziani | tz1f89QEZHbwmR6nyKYWZMAuvA6uEvQoBntd |👛 | [profile](https://www.fxhash.xyz/u/Eric%20Anziani)
-|Tom sir| tz1g3mdxbTAKN9mXVT3nX5bm3vr8iH3jowrK  |👛|
-|Tom sir| tz1ed9knYzgxmnk9sgo69SGwoXHo1ZWHu2kA  |👛|
+| Value of art | tz1XgxRZBTMNcZYAHAZxpnoxmTGgqUNauiuE | 🦝    |       |
+| fxhash.tez | tz1ed9knYzgxmnk9sgo69SGwoXHo1ZWHu2kA | 🦝 | [profile](https://www.fxhash.xyz/pkh/tz1ed9knYzgxmnk9sgo69SGwoXHo1ZWHu2kA) has been feeding known c+p accounts like Eric Anziani and Krupz |
+| Eric Anziani | tz1RpYJVN4Ui9RNUvcayWng4MJ9fWwHS55aD  |👛 | [profile](https://www.fxhash.xyz/u/Eric%20Anziani)|
+| Eric Anziani | tz1hTvrgwQ3Yxof9yhdBFBQ8DCQocHXaHX5W   |👛 | [profile](https://www.fxhash.xyz/u/Eric%20Anziani)|
+| Eric Anziani | tz1f89QEZHbwmR6nyKYWZMAuvA6uEvQoBntd |👛 | [profile](https://www.fxhash.xyz/u/Eric%20Anziani)|
+|Tom sir| tz1g3mdxbTAKN9mXVT3nX5bm3vr8iH3jowrK  |👛||
+|Tom sir| tz1ed9knYzgxmnk9sgo69SGwoXHo1ZWHu2kA  |👛||
+|Aaslz|tz1QrCpGb5qA4xZHym5jmXvup4BGYBRdARXC|👛|[profile](https://www.fxhash.xyz/u/Aaslz) related to Eric Anziani |
+|Krupz|tz1P2XTFUpzmAMrZ3fyVXNMgF3s7tabJfhpn|👛|[profile](https://www.fxhash.xyz/u/Krupz)|
+|Shmebulock|tz1bECb43WtFFjT3aTGKvXqVeqBde32sYjyT|👛|[profile](https://www.fxhash.xyz/u/Shmebulock) Got its start from Echo Chamber|
+|Echo chamber|tz1RGBoJxeePN8SbJvBz3ZMsxYNndtUUqVvq|👛|[profile](https://www.fxhash.xyz/pkh/tz1RGBoJxeePN8SbJvBz3ZMsxYNndtUUqVvq) Got its start from A. Schoenberg|
+|A. Schoenberg|tz2WzEAVTcT1Q52Z1GYNSrmKg5cJS5wLJZVY|👛|[profile](https://www.fxhash.xyz/pkh/tz2WzEAVTcT1Q52Z1GYNSrmKg5cJS5wLJZVY) Got it's start from Ordure|
