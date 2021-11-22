@@ -72,7 +72,7 @@ Request number dirived from polls
 | -------------------------------------------------- | --------- | ----------- | -------------- |
 | One Decimal rarity                                 |           | ⌛           |
 | Mint price visible after completition              |
-| Change  "see generative token" to "see collection" |           | ⌛           |
+| Change  "see generative token" to "see collection" |           | Needs clarification           |
 | rename "placed an offer" => "listed for sale"      |           | ⌛           |
 | rename "traded its token" => "token purchased"     |           | ⌛           |
 | Market related stats on collectors page            |
