@@ -15,15 +15,15 @@ Request number dirived from polls
 ❌ = Scrappef
 
 | Feature                                                                                              | Requested | Implimented | Community Poll |
-| ---------------------------------------------------------------------------------------------------- | --------- | ----------- | -------------- |
+| ---------------------------------------------------------------------------------------------------- | --------- | :---------: | :------------: |
 | Artist verification                                                                                  | 37        | ✅           |                |
 | Tez addr on profile                                                                                  | 16        | ✅           |                |
-| Show mint options pre-mint                                                                           |           | 🎉            | 78/16          |
+| Show mint options pre-mint                                                                           |           | 🎉          | 78/16          |
 | fxpreview() bool which hides features in preview                                                     |           | 🎉          | 57/13          |
 | Advance filtering (market + collection                                                               | 35        |             |                |
 | Secondary market stats                                                                               | 27        |             |                |
 | Beta test role                                                                                       | 26        |             |                |
-| Burn merchanism for artists                                                                          | 23        |             |                |
+| Burn merchanism for artists                                                                          | 25        |             |                |
 | Mint 0# to artist                                                                                    | 23        |             |                |
 | Offset mint cycles: 9h on 6off                                                                       | 21        |             |                |
 | put the total project size (in KB) on the project page                                               | 15        |
@@ -42,6 +42,7 @@ Request number dirived from polls
 | Full artist details on the project page                                                              | 5         |             |                |
 | load a new hash in the preview before minting instead of just reloading it with the same one         | 5         |             |                |
 | download an exclusive high-res file                                                                  | 5         |             |                |
+| fxtime() for epoch datetime of mint                                                                  | 5         |             |                |
 | Discord Bot to show minting                                                                          |           |             |                |
 | Reduce Minting Clutter                                                                               |           |             |                |
 | Filter to remove 100% minted proj                                                                    |           |             |                |
@@ -52,9 +53,7 @@ Request number dirived from polls
 | Artist to increase fee to %fxhash                                                                    |           |             |                |
 | Custom names to mints                                                                                |           |             |                |
 | fxiter() for iteraions                                                                               |           |             |                |
-| fxtime() for epoch datetime of mint                                                                  |           |             |                |
 | Status for minting cycles                                                                            |           |             |                |
-| One decimal on rarity                                                                                |           | ⌛           |                |
 | Favorite art/collections                                                                             |           |             |                |
 | Fr rarity rank                                                                                       |           |             |                |
 | Show original mint price                                                                             |           |             |                |
@@ -73,11 +72,14 @@ Request number dirived from polls
 
 ## Frontend / UI
 
-| Feature                                            | Requested | Implimented         | Community Poll |
-| -------------------------------------------------- | --------- | ------------------- | -------------- |
-| One Decimal rarity                                 |           | ⌛                   |
-| Mint price visible after completition              |
-| Change  "see generative token" to "see collection" |           | Needs clarification |
-| rename "placed an offer" => "listed for sale"      |           | ⌛                   |
-| rename "traded its token" => "token purchased"     |           | ⌛                   |
-| Market related stats on collectors page            |
+| Feature                                                                                              | Requested | Implimented         | Community Poll |
+| ---------------------------------------------------------------------------------------------------- | --------- | :-----------------: | -------------- |
+| Tez address clickable to https://tzkt.io/, so we can verify the account easily? + account/wallet age | 10        | ⌛                   |                |
+| One Decimal rarity                                                                                   |           | ⌛                   |
+| Mint price visible after completition                                                                |
+| Change  "see generative token" to "see collection"                                                   |           | Needs clarification |
+| rename "placed an offer" => "listed for sale"                                                        |           | ⌛                   |
+| rename "traded its token" => "token purchased"                                                       |           | ⌛                   |
+| Market related stats on collectors page                                                              |
+| Unlock icon could be more obvious                                                                    |
+| Text saying you need to unlock the post before continuing                                            |
