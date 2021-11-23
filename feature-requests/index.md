@@ -18,6 +18,7 @@ Request number dirived from polls
 | ---------------------------------------------------------------------------------------------------- | --------- | :---------: | :------------: |
 | Artist verification                                                                                  | 37        | ✅           |                |
 | Tez addr on profile                                                                                  | 16        | ✅           |                |
+| Tez address clickable to https://tzkt.io/, so we can verify the account easily? + account/wallet age | 10        | ✅           |                |
 | Show mint options pre-mint                                                                           |           | 🎉          | 78/16          |
 | fxpreview() bool which hides features in preview                                                     |           | 🎉          | 57/13          |
 | Advance filtering (market + collection                                                               | 35        |             |                |
@@ -35,7 +36,6 @@ Request number dirived from polls
 | Split contract                                                                                       | 10        |             |                |
 | Sort feature (price/rarity/new/etc)                                                                  | 10        |             |                |
 | Burn feature                                                                                         | 10        |             |                |
-| Tez address clickable to https://tzkt.io/, so we can verify the account easily? + account/wallet age | 10        | ⌛           |                |
 | Updated Rarity calculation                                                                           | 10        |             |                |
 | Full on chain svgs - no ifps dependency                                                              | 5         |
 | Mint price visible after minting out                                                                 | 5         |             |                |
@@ -74,12 +74,12 @@ Request number dirived from polls
 
 | Feature                                                                                              | Requested | Implimented         | Community Poll |
 | ---------------------------------------------------------------------------------------------------- | --------- | :-----------------: | -------------- |
-| Tez address clickable to https://tzkt.io/, so we can verify the account easily? + account/wallet age | 10        | ⌛                   |                |
-| One Decimal rarity                                                                                   |           | ⌛                   |
+| Tez address clickable to https://tzkt.io/, so we can verify the account easily? + account/wallet age | 10        | ✅                   |                |
+| One Decimal rarity                                                                                   |           | ✅                   |
 | Mint price visible after completition                                                                |
 | Change  "see generative token" to "see collection"                                                   |           | Needs clarification |
-| rename "placed an offer" => "listed for sale"                                                        |           | ⌛                   |
-| rename "traded its token" => "token purchased"                                                       |           | ⌛                   |
+| rename "placed an offer" => "listed for sale"                                                        |           | ✅                   |
+| rename "traded its token" => "token purchased"                                                       |           | ✅                   |
 | Market related stats on collectors page                                                              |
 | Unlock icon could be more obvious                                                                    |
 | Text saying you need to unlock the post before continuing                                            |

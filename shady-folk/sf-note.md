@@ -30,7 +30,7 @@ tz1SdQRpKWpEMfg6PhPcSLcWqfZgFtwqQRS5 - set up (monitor)
 tz1MJuAAgVLjbJNYjCQwKLMhemErMKGF76hb    https://www.fxhash.xyz/PKH/tz1MJuAAgVLjbJNYjCQwKLMhemErMKGF76hb whitehot_robot
 tz1V2xhjbZsZ2Zx86zcuajdqJfChXdi51rB1    https://www.fxhash.xyz/pkh/tz1V2xhjbZsZ2Zx86zcuajdqJfChXdi51rB1 whitehot robot
 tz1XSotiUjxcDKS1tYRcVLNEZ9jHpiEEEfEw    https://tzkt.io/tz1XSotiUjxcDKS1tYRcVLNEZ9jHpiEEEfEw/operations MULE ACCOUNT for whr
-
+tz1eqLDq2ajYSRUfqTo67oWEu1itZwkpTqJc
 
 ORDURE CHAIN
 tz1VE1gFxMZ5TVCwWaYpXGANcfhyjgiUGkpg    https://tzkt.io/tz1VE1gFxMZ5TVCwWaYpXGANcfhyjgiUGkpg/operations ordure
