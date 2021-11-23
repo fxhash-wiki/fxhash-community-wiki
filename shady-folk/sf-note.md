@@ -44,21 +44,3 @@ tz1QbJx8LL3UNR5occWx6Je4WyfzD13PdCGz    https://tzkt.io/tz1QbJx8LL3UNR5occWx6Je4
 tz1LdcbsNfvQD72LTzLRytNaxAjfToHQeFaz    https://tzkt.io/tz1LdcbsNfvQD72LTzLRytNaxAjfToHQeFaz/operations transfer mule
 tz1dZyqWWa4VUSAZ6ifQmn481A47aFxFShkV    https://tzkt.io/tz1dZyqWWa4VUSAZ6ifQmn481A47aFxFShkV/operations active on objkt - WATCH
 tz2WzEAVTcT1Q52Z1GYNSrmKg5cJS5wLJZVY    https://tzkt.io/tz2WzEAVTcT1Q52Z1GYNSrmKg5cJS5wLJZVY/operations active on objkt - WATCH
--- 
-
-tz1bz2CabKhva5Y5Q3NWf3u7pBFQF72KJNm5    https://tzkt.io/tz1bz2CabKhva5Y5Q3NWf3u7pBFQF72KJNm5/operations sent to below
-                                        https://www.fxhash.xyz/pkh/tz1bz2CabKhva5Y5Q3NWf3u7pBFQF72KJNm5 koalamilk (legit)
-tz1XGMj22uod9BSodawkSFRn2cRhAD7UxEUC    https://www.fxhash.xyz/pkh/tz1XGMj22uod9BSodawkSFRn2cRhAD7UxEUC (nameless)
-
-
-tz1QrCpGb5qA4xZHym5jmXvup4BGYBRdARXC    https://www.fxhash.xyz/pkh/tz1QrCpGb5qA4xZHym5jmXvup4BGYBRdARXC Aaslz
-
-
-tz1hGj1ook8GtC1BhF3XGSUZtkrMH7GkFZdA
-
-tz1hTvrgwQ3Yxof9yhdBFBQ8DCQocHXaHX5W
-tz1hTvrgwQ3Yxof9yhdBFBQ8DCQocHXaHX5W
-tz1f89QEZHbwmR6nyKYWZMAuvA6uEvQoBntd
-tz1bvdQC8zrkxKmAsWkBVNV1NzaaVcF3FyZ6 
-tz1f89QEZHbwmR6nyKYWZMAuvA6uEvQoBntd
-tz1Vai3pQaJmvjeJU4gvVCqcPXw2e6ZLU3eR
