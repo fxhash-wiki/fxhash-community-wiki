@@ -18,3 +18,5 @@ Join our discord: [discord](https://discord.gg/PQXYvMnD).
 - [✅ Feature requests](./feature-requests)
 - [🐛 Bugs](./bugs)
 - [🦝 Shady folk](./shady-folk)
+- [📑 Code of Conduct](https://github.com/fxhash-wiki/fxhash-community-wiki/wiki/CODE-OF-CONDUCT)
+- [🎨 Artistis Ethic](https://github.com/fxhash-wiki/fxhash-community-wiki/wiki/THE-ARTISTIS-ETHIC)
