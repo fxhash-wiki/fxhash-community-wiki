@@ -18,8 +18,14 @@ tz1hGj1ook8GtC1BhF3XGSUZtkrMH7GkFZdA    https://www.fxhash.xyz/pkh/tz1hGj1ook8Gt
 tz1QDF6dpy4okHUAyNNJbcCHGTcbLaGmt2SH    https://www.fxhash.xyz/pkh/tz1QDF6dpy4okHUAyNNJbcCHGTcbLaGmt2SH TZK6
 tz1Ve7H1w85oRYNo1trfMBDfWoh9rCXMdkDj    https://www.fxhash.xyz/pkh/tz1Ve7H1w85oRYNo1trfMBDfWoh9rCXMdkDj Harald Sohlberg
 
-tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg    https://www.fxhash.xyz/pkh/tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg David milan
-tz2CZBTyQXYdYu2jBxYvXTaAJJjk1bmDscJZ    https://www.fxhash.xyz/pkh/tz2CZBTyQXYdYu2jBxYvXTaAJJjk1bmDscJZ NO NAME YET
+tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg    https://www.fxhash.xyz/pkh/tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg  David milan
+tz1bDLeoXi6NM3QS4AMRvVfWpq2WK4iU8seq    https://www.fxhash.xyz/pkh/tz1bDLeoXi6NM3QS4AMRvVfWpq2WK4iU8seq  DG sir (funded by dg)
+tz2CZBTyQXYdYu2jBxYvXTaAJJjk1bmDscJZ    https://www.fxhash.xyz/pkh/tz2CZBTyQXYdYu2jBxYvXTaAJJjk1bmDscJZ  NO NAME YET
+tz1RpYJVN4Ui9RNUvcayWng4MJ9fWwHS55aD    https://www.fxhash.xyz/pkh/tz1RpYJVN4Ui9RNUvcayWng4MJ9fWwHS55aD  Eric Anziani   funded by X5W
+tz1Vyq9KLVWYcF5zN8c2F9eVX7QaGYVBfSUt    https://www.fxhash.xyz/pkh/tz1Vyq9KLVWYcF5zN8c2F9eVX7QaGYVBfSUt  lihai          funded by S3E
+tz1azx4PC9CQM2qmRpu7TtdyMtnU1fRtGTpc    https://www.fxhash.xyz/pkh/tz1azx4PC9CQM2qmRpu7TtdyMtnU1fRtGTpc  charlie1       new funded by Bntd, funding 
+tz1ZwWxsS7XejrrbtU4XKHEjkK17KV17wVMn    https://www.fxhash.xyz/pkh/tz1ZwWxsS7XejrrbtU4XKHEjkK17KV17wVMn  CIO966         funded by GTpc
+tz1WesrUGA93VYC1bS9CksMphu3SVPWJUbsx    https://www.fxhash.xyz/pkh/tz1WesrUGA93VYC1bS9CksMphu3SVPWJUbsx  nameless       being used to resell 
 
 tz1bvdQC8zrkxKmAsWkBVNV1NzaaVcF3FyZ6    https://tzkt.io/tz1bvdQC8zrkxKmAsWkBVNV1NzaaVcF3FyZ6/operations/ (mule account)
 tz1iEehT8641LE2zUS6fRCRnMjaU3x3ZLVwH    https://tzkt.io/tz1iEehT8641LE2zUS6fRCRnMjaU3x3ZLVwH/operations/ (Mule account)
@@ -44,3 +50,9 @@ tz1QbJx8LL3UNR5occWx6Je4WyfzD13PdCGz    https://tzkt.io/tz1QbJx8LL3UNR5occWx6Je4
 tz1LdcbsNfvQD72LTzLRytNaxAjfToHQeFaz    https://tzkt.io/tz1LdcbsNfvQD72LTzLRytNaxAjfToHQeFaz/operations transfer mule
 tz1dZyqWWa4VUSAZ6ifQmn481A47aFxFShkV    https://tzkt.io/tz1dZyqWWa4VUSAZ6ifQmn481A47aFxFShkV/operations active on objkt - WATCH
 tz2WzEAVTcT1Q52Z1GYNSrmKg5cJS5wLJZVY    https://tzkt.io/tz2WzEAVTcT1Q52Z1GYNSrmKg5cJS5wLJZVY/operations active on objkt - WATCH
+
+Lone wolves?
+tz1ZPfVR8XiPW7sCSkiT4B5EQmzkHk93js8j Bjarni_T
+tz1Ra9deDdwgti8QrbJXJCzRAGY8smmBL4B8 adicirstei
+
+tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg
