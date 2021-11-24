@@ -68,7 +68,15 @@ Request number dirived from polls
 | market place sort features: collection/artist                                                |           |             |                |
 | Notation of messed up metadata from bad mints                                                |           |             |                |
 | Disable mint token for minted out projects                                                   |           |             |                |
-| add IPFS link/hash in the page of each token (metadata)                                      |
+| Total stats: most traded/most value/most volume/etc                                          |
+| Original price of token                                                                      |
+| Automatic randomness checker based on multiple stats pre-mint                                |
+| Burn function on the platform via UI                                                         |
+| Search collection by trait (filer by rarity)                                                 |
+| Artwork licence field                                                                        |
+| Bot for listings, not just sales                                                             |
+| 'Follow' artists                                                                             |
+| Flag in sandbox alerting to the use of 'random()'                                            |
 
 ## Frontend / UI
 
@@ -84,3 +92,6 @@ Request number dirived from polls
 | Market related stats on collectors page                                                              |
 | Unlock icon could be more obvious                                                                    |
 | Text saying you need to unlock the post before continuing                                            |
+| On GTK card; links to profiles function                                                              |
+| Dark mode theme                                                                                      |
+| add IPFS link/hash in the page of each token (metadata)                                              |
