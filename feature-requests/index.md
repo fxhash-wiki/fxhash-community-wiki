@@ -57,7 +57,6 @@ Request number dirived from polls
 | Custom names to mints                                                                        |           |             |                |
 | fxiter() for iteraions                                                                       |           |             |                |
 | Favorite art/collections                                                                     |           |             |                |
-
 | stop objkts from running immidiately on phone                                                |           |             |                |
 | External calls in token                                                                      |           |             |                |
 | pre-open period which is mint only                                                           |           |             |                |
@@ -102,7 +101,6 @@ Request number dirived from polls
 | Market related stats on collectors page                                                              |
 | Unlock icon could be more obvious                                                                    |
 | Text saying you need to unlock the post before continuing                                            |
-
 | Dark mode theme                                                                                      |
 | add IPFS link/hash in the page of each token (metadata)                                              |
 |Add marketplace feed for collection below collection                                                  |           |             |                |
