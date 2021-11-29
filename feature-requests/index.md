@@ -19,6 +19,8 @@ Request number dirived from polls
 | Artist verification                                                                          | 37        | ✅           |                |
 | Tez addr on profile                                                                          | 16        | ✅           |                |
 | Tez address clickable to https://tzkt.io/, so we can verify the account easily?              | 10        | ✅           |                |
+| Status for minting cycles                                                                    |           |  ✅           |                |
+| Show original mint price                                                                     |           |    ✅         |                |
 | Show mint options pre-mint                                                                   |           | 🎉          | 78/16          |
 | fxpreview() bool which hides features in preview                                             |           | 🎉          | 57/13          |
 | Advance filtering (market + collection                                                       | 35        |             |                |
@@ -26,18 +28,19 @@ Request number dirived from polls
 | Beta test role                                                                               | 26        |             |                |
 | Burn merchanism for artists                                                                  | 25        |             |                |
 | Mint 0# to artist                                                                            | 23        |             |                |
-| Offset mint cycles: 9h on 6off                                                               | 21        |             |                |
+| Offset mint cycles: 9h on 6off / Lunar schedule (12/11 hours not ideal schedule)             | 21        |             |                |
 | put the total project size (in KB) on the project page                                       | 15        |
 | Animated Thumbnails on explore                                                               | 13        |             |                |
 | Pagination on marketplace (rather than scroll)                                               | 13        |             |                |
 | Follow artists                                                                               | 12        |             |                |
 | Dark theme                                                                                   | 11        |             |                |
-| Mink clock/calender                                                                          | 10        |             |                |
+| Mink clock/calender                                                                          | 10        |     ✅           |                |
 | Split contract                                                                               | 10        |             |                |
 | Sort feature (price/rarity/new/etc)                                                          | 10        |             |                |
 | Burn feature                                                                                 | 10        |             |                |
-| Updated Rarity calculation                                                                   | 10        |             |                |
+| Updated Rarity calculation                                                                   | 10        |         ✅       |                |
 | Full on chain svgs - no ifps dependency                                                      | 5         |
+| Fr rarity rank                                                                               | 5         |             |                |
 | Mint price visible after minting out                                                         | 5         |             |                |
 | Full artist details on the project page                                                      | 5         |             |                |
 | load a new hash in the preview before minting instead of just reloading it with the same one | 5         |             |                |
@@ -53,10 +56,8 @@ Request number dirived from polls
 | Artist to increase fee to %fxhash                                                            |           |             |                |
 | Custom names to mints                                                                        |           |             |                |
 | fxiter() for iteraions                                                                       |           |             |                |
-| Status for minting cycles                                                                    |           |             |                |
 | Favorite art/collections                                                                     |           |             |                |
-| Fr rarity rank                                                                               |           |             |                |
-| Show original mint price                                                                     |           |             |                |
+
 | stop objkts from running immidiately on phone                                                |           |             |                |
 | External calls in token                                                                      |           |             |                |
 | pre-open period which is mint only                                                           |           |             |                |
@@ -68,20 +69,29 @@ Request number dirived from polls
 | market place sort features: collection/artist                                                |           |             |                |
 | Notation of messed up metadata from bad mints                                                |           |             |                |
 | Disable mint token for minted out projects                                                   |           |             |                |
-| Total stats: most traded/most value/most volume/etc                                          |
-| Original price of token                                                                      |
-| Automatic randomness checker based on multiple stats pre-mint                                |
-| Burn function on the platform via UI                                                         |
-| Search collection by trait (filer by rarity)                                                 |
-| Artwork licence field                                                                        |
-| Bot for listings, not just sales                                                             |
-| 'Follow' artists                                                                             |
-| Flag in sandbox alerting to the use of 'random()'                                            |
+| Total stats: most traded/most value/most volume/etc                                          |           |             |                |   
+| Original price of token                                                                      |           |             |                |
+| Automatic randomness checker based on multiple stats pre-mint                                |           |             |                |
+| Burn function on the platform via UI                                                         |           |             |                |
+| Search collection by trait (filer by rarity)                                                 |           |             |                |
+| Artwork licence field                                                                        |           |             |                |
+| Bot for listings, not just sales                                                             |           |             |                |
+| 'Follow' artists                                                                             |           |             |                |
+| Flag in sandbox alerting to the use of 'random()'                                            |           |             |                |
+| Automatic randomness checker based on multiple stats pre-mint                                |           |             |                |
+|Updated rarity calculation                                                                    | 5          |             |                |
+|Glag during sandbox if fxrand() is not used                                                   | 5          |             |                |
+
+
+
 
 ## Frontend / UI
 
 | Feature                                                                                              | Requested | Implimented         | Community Poll |
 | ---------------------------------------------------------------------------------------------------- | --------- | :-----------------: | -------------- |
+|Option to make offers                                                                                 |20          |             |                |
+| On GTK card; links to (artist & creator) profiles function => see picture                            | 15
+|Preview animation when hovering on items                                                              | 10          |             |                |
 | Tez address clickable to https://tzkt.io/, so we can verify the account easily? + account/wallet age | 10        | ✅                   |                |
 | One Decimal rarity                                                                                   |           | ✅                   |
 | rename "traded its token" => "token purchased"                                                       |           | ✅                   |
@@ -92,6 +102,15 @@ Request number dirived from polls
 | Market related stats on collectors page                                                              |
 | Unlock icon could be more obvious                                                                    |
 | Text saying you need to unlock the post before continuing                                            |
-| On GTK card; links to profiles function                                                              |
+
 | Dark mode theme                                                                                      |
 | add IPFS link/hash in the page of each token (metadata)                                              |
+|Add marketplace feed for collection below collection                                                  |           |             |                |
+|Minting opens in (Countdown) timer next to mint token                                                 |           |             |                |
+|display preview tiles using "contain" and not "cover" for those who don't do square ratio             |           |             |                |
+|flashing warning for seizures                                                                         |           |             |                |
+
+
+
+![unknown]
+(https://user-images.githubusercontent.com/94795626/143954598-f11e10aa-9636-47e7-bdad-e062ae42f823.png)
