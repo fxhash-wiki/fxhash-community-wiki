@@ -55,4 +55,41 @@ Lone wolves?
 tz1ZPfVR8XiPW7sCSkiT4B5EQmzkHk93js8j Bjarni_T
 tz1Ra9deDdwgti8QrbJXJCzRAGY8smmBL4B8 adicirstei
 
-tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg
+tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisgtz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg
+
+
+tz1NfSBU37pBq8drjZWes7KBdNDMe3H6S7GQ Mickiewicz
+https://tzkt.io/tz1NfSBU37pBq8drjZWes7KBdNDMe3H6S7GQ/operations/ 
+https://www.fxhash.xyz/pkh/tz1NfSBU37pBq8drjZWes7KBdNDMe3H6S7GQ
+
+tz1YwxmZCU47qjSdswmE71DHffwCVXCBaYVa HOLA Sent to Mickiewicz - used to be called Tiffany_Rayside 
+https://tzkt.io/tz1YwxmZCU47qjSdswmE71DHffwCVXCBaYVa/operations/ 
+https://www.fxhash.xyz/pkh/tz1YwxmZCU47qjSdswmE71DHffwCVXCBaYVa 
+
+Addr                                    Funded by
+
+The Flower Tree - main
+
+tz1MPiiBeW5f7FZJJthcHB6KaaE9Dq8zYQU9    tz2CzhZBo1XMAeRkBHvf3pEVYQcC5nV6yYuG
+tz28kzc4aqCj1MpiduK51wq2sohGTXaYzCXU    "
+tz1b5ckGq9mRXAZtreeNcormFnwZwYTFzmnL    "
+tz1MvuzZbYWn6UCnbX9QcPe7mR65n6eRPUmi    "
+
+tz2CzhZBo1XMAeRkBHvf3pEVYQcC5nV6yYuG    tz1U4MiXDc9ayQFkGUQa1s7oe3puc6ExYqw6
+tz1QKZKTdodSrfHJqCDE2ft7GPBp7vuZAwg7    "    
+
+tz1U4MiXDc9ayQFkGUQa1s7oe3puc6ExYqw6    tz1WoMMMsKVSeULL3XJFbRt7xvfMr9AQV5Uz
+
+tz1WoMMMsKVSeULL3XJFbRt7xvfMr9AQV5Uz    tz1WhuXy9eURKLxvfq3J69J1mYR3Zvc7nNTx 
+tz1c9JjRt7heN7uB5h7jLr1me34y2pqJ7aHK    "
+tz1Ua9u6wDuH2ofS7qmCca9YZtM3MWLdu4Kv    "
+tz1S1jw7pCVkGMUaGPxfEdoKPbg7xKhbXvhf    "   
+tz1PKjch6ysa4GhcVon6PvrfWxgfVQuomPz9    "
+
+tz1WhuXy9eURKLxvfq3J69J1mYR3Zvc7nNTx    tz1Y9EGqkLif5NUjdBMPqSCkXEwaFwL2xBKU (flower.art) (top of tree)
+tz2DS71K6osobcjg67qe51YkYi3FTyFaGsf1    "
+
+Internal trees--
+
+tz1UpLbfdSzcSYojcwritd4eYD18WivwPtXw    tz1PKjch6ysa4GhcVon6PvrfWxgfVQuomPz9
+tz1XzwHePNqPqvRbMQBHSk6oFUdedycsnpsA    "
