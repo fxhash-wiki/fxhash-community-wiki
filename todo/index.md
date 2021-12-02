@@ -11,4 +11,5 @@ Internal tasks for wiki/editorial - think you can help contribute? Drop us a lin
 | Tezos Crash course (blockchain overview) |
 | JS/p5 crash course                       |
 | Boilerplates                             |
-| fxhash listed on oncyber                 |         | ✅      |
+| fxhash listed on oncyber                 | qaulv   | ✅      |
+| compile code snippets                    | Liam    | ✅      |
