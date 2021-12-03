@@ -13,3 +13,4 @@ Internal tasks for wiki/editorial - think you can help contribute? Drop us a lin
 | Boilerplates                             |
 | fxhash listed on oncyber                 | qaulv   | ✅      |
 | compile code snippets                    | Liam    | ✅      |
+| Printing guide                             |
