@@ -4,11 +4,11 @@ The following projects are known batch mints which result in similar - if not id
 
 
 |[Concrete](https://www.fxhash.xyz/generative/slug/concrete)|640/640|
-|:-- | :--: |
+|:-- | :-- |
 |[Bloom fairy](https://www.fxhash.xyz/u/Bloom%20fairy/collection) |40-44|
 |[Neuro Bot ](https://www.fxhash.xyz/u/NeuroBot)|45-49|
-|QXj    |50-54|
+|[QXj](https://www.fxhash.xyz/pkh/tz1UD776VXaa9Xb9anHGRxqdtzMpnqH24QXj)    |50-54|
 |[NftShapes](https://www.fxhash.xyz/u/NftShapes) |91-95|
 |[Bloom fairy](https://www.fxhash.xyz/u/Bloom%20fairy/collection) |114-118|
 |[Neuro Bot ](https://www.fxhash.xyz/u/NeuroBot)|119 - 123|
-|QXj    |124-128|
+|[QXj](https://www.fxhash.xyz/pkh/tz1UD776VXaa9Xb9anHGRxqdtzMpnqH24QXj)    |124-128|
