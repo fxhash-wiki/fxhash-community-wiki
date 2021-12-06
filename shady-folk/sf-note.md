@@ -4,7 +4,7 @@ tz1fFDmUmsmEwNAuLji3E4zunu5yTNUQrimH    https://www.fxhash.xyz/pkh/tz1fFDmUmsmEw
 tz1cuiR5mhoeHCzys56sHX8NxwKeTuHWwS3E    https://www.fxhash.xyz/pkh/tz1cuiR5mhoeHCzys56sHX8NxwKeTuHWwS3E @  @ 
 tz1f89QEZHbwmR6nyKYWZMAuvA6uEvQoBntd    https://www.fxhash.xyz/pkh/tz1f89QEZHbwmR6nyKYWZMAuvA6uEvQoBntd kafei
 tz1g3mdxbTAKN9mXVT3nX5bm3vr8iH3jowrK    https://www.fxhash.xyz/pkh/tz1g3mdxbTAKN9mXVT3nX5bm3vr8iH3jowrK tom sir
-tz1P2XTFUpzmAMrZ3fyVXNMgF3s7tabJfhpn    https://www.fxhash.xyz/pkh/tz1P2XTFUpzmAMrZ3fyVXNMgF3s7tabJfhpn Krupz
+tz1P2XTFUpzmAMrZ3fyVXNMgF3s7tabJfhpn    https://www.fxhash.xyz/pkh/tz1P2XTFUpzmAMrZ3fyVXNMgF3s7tabJfhpn Krupz 
 tz1R7csU4bgUVQ3g35RvE3ArFDYWNTMCCJYP    https://www.fxhash.xyz/pkh/tz1R7csU4bgUVQ3g35RvE3ArFDYWNTMCCJYP Himani
 tz1XTBSGL94KApeS1qTu57kRxvAfrfa5H1HL    https://www.fxhash.xyz/pkh/tz1XTBSGL94KApeS1qTu57kRxvAfrfa5H1HL Jimmy Jenius
 tz1hmsa1txpNgQAWw7mkEroX5y56JYysApKV    https://www.fxhash.xyz/pkh/tz1hmsa1txpNgQAWw7mkEroX5y56JYysApKV Huzaifa Yaman
@@ -18,6 +18,7 @@ tz1hGj1ook8GtC1BhF3XGSUZtkrMH7GkFZdA    https://www.fxhash.xyz/pkh/tz1hGj1ook8Gt
 tz1QDF6dpy4okHUAyNNJbcCHGTcbLaGmt2SH    https://www.fxhash.xyz/pkh/tz1QDF6dpy4okHUAyNNJbcCHGTcbLaGmt2SH TZK6
 tz1Ve7H1w85oRYNo1trfMBDfWoh9rCXMdkDj    https://www.fxhash.xyz/pkh/tz1Ve7H1w85oRYNo1trfMBDfWoh9rCXMdkDj Harald Sohlberg
 
+
 tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg    https://www.fxhash.xyz/pkh/tz1gRkbaYhABQYszNFYXXVPTFy2B7t8Rzisg  David milan
 tz1bDLeoXi6NM3QS4AMRvVfWpq2WK4iU8seq    https://www.fxhash.xyz/pkh/tz1bDLeoXi6NM3QS4AMRvVfWpq2WK4iU8seq  DG sir (funded by dg)
 tz2CZBTyQXYdYu2jBxYvXTaAJJjk1bmDscJZ    https://www.fxhash.xyz/pkh/tz2CZBTyQXYdYu2jBxYvXTaAJJjk1bmDscJZ  mexcglobal
@@ -26,14 +27,28 @@ tz1Vyq9KLVWYcF5zN8c2F9eVX7QaGYVBfSUt    https://www.fxhash.xyz/pkh/tz1Vyq9KLVWYc
 tz1azx4PC9CQM2qmRpu7TtdyMtnU1fRtGTpc    https://www.fxhash.xyz/pkh/tz1azx4PC9CQM2qmRpu7TtdyMtnU1fRtGTpc  charlie1       new funded by Bntd, funding 
 tz1ZwWxsS7XejrrbtU4XKHEjkK17KV17wVMn    https://www.fxhash.xyz/pkh/tz1ZwWxsS7XejrrbtU4XKHEjkK17KV17wVMn  CIO966         funded by GTpc
 tz1WesrUGA93VYC1bS9CksMphu3SVPWJUbsx    https://www.fxhash.xyz/pkh/tz1WesrUGA93VYC1bS9CksMphu3SVPWJUbsx  nameless       being used to resell 
-tz1YZ66gKaoBCJHGhqRqBc6qM8KS3TdPjCDS 
 
+tz1WesrUGA93VYC1bS9CksMphu3SVPWJUbsx    https://www.fxhash.xyz/pkh/tz1WesrUGA93VYC1bS9CksMphu3SVPWJUbsx nameless
+tz1i2Tap38XHz1GBzUcE6bqQdZJorVc4F9Sw    https://www.fxhash.xyz/pkh/tz1i2Tap38XHz1GBzUcE6bqQdZJorVc4F9Sw/ alen#0&1
+    https://www.fxhash.xyz/generative/1082
+tz1XJXsPMSf8N13WGW4Esh2oDyR8JsjoJYg8    https://www.fxhash.xyz/pkh/tz1XJXsPMSf8N13WGW4Esh2oDyR8JsjoJYg8 Jiye
+tz1bSi9vjGgLs64sBGz54Nq6TaoAbYhDDGp9    https://www.fxhash.xyz/pkh/tz1bSi9vjGgLs64sBGz54Nq6TaoAbYhDDGp9 Maxim Shkret
+tz1cteXMZZ6ivz3Bf1YqUoCj8zGJuyqvdQZh    https://www.fxhash.xyz/pkh/tz1cteXMZZ6ivz3Bf1YqUoCj8zGJuyqvdQZh Steven
+tz1eqLDq2ajYSRUfqTo67oWEu1itZwkpTqJc    https://www.fxhash.xyz/pkh/tz1eqLDq2ajYSRUfqTo67oWEu1itZwkpTqJc goog1e.tez | alen
 
 tz1bvdQC8zrkxKmAsWkBVNV1NzaaVcF3FyZ6    https://tzkt.io/tz1bvdQC8zrkxKmAsWkBVNV1NzaaVcF3FyZ6/operations/ (mule account)
 tz1iEehT8641LE2zUS6fRCRnMjaU3x3ZLVwH    https://tzkt.io/tz1iEehT8641LE2zUS6fRCRnMjaU3x3ZLVwH/operations/ (Mule account)
 tz1TTLiidrG7mGmegCgSs7KA4BjHuaz6WS6v    https://tzkt.io/tz1TTLiidrG7mGmegCgSs7KA4BjHuaz6WS6v/operations/ (mule account)
 
 tz1SdQRpKWpEMfg6PhPcSLcWqfZgFtwqQRS5 - set up (monitor)
+
+tz1LeS28PzrNSxmFECBWpBrahGYMKqPh38n2    https://www.fxhash.xyz/pkh/tz1eRQNtsCME5s7RHsSwyKJYMXfnpaqzUyaL almog creator
+  
+tz1YVyL4JbdvMdgqiGu525e6nZitxJDjKVHp
+tz1eRQNtsCME5s7RHsSwyKJYMXfnpaqzUyaL    https://www.fxhash.xyz/pkh/tz1eRQNtsCME5s7RHsSwyKJYMXfnpaqzUyaL kitakito 
+  
+ tz1YVyL4JbdvMdgqiGu525e6nZitxJDjKVHp   with flagged work 
+tz1aMpc1YvFxzChsTHNVVhaH8Ti9YAxAmEXX    not on fxhash
 
 tz1MJuAAgVLjbJNYjCQwKLMhemErMKGF76hb    https://www.fxhash.xyz/PKH/tz1MJuAAgVLjbJNYjCQwKLMhemErMKGF76hb whitehot_robot
 tz1V2xhjbZsZ2Zx86zcuajdqJfChXdi51rB1    https://www.fxhash.xyz/pkh/tz1V2xhjbZsZ2Zx86zcuajdqJfChXdi51rB1 whitehot robot
