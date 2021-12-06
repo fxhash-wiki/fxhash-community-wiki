@@ -11,4 +11,4 @@ The following projects are known batch mints which result in similar - if not id
 |[NftShapes](https://www.fxhash.xyz/u/NftShapes) |Concrete #91-95| ootpG4dNNqVrgn7UBsfi5CCvBd4qLpF8nd7ARmsnDSWiXF7gBpQ|
 |[Bloom fairy](https://www.fxhash.xyz/u/Bloom%20fairy/collection) |Concrete #114-118| op3b7RRyuTU7hvzvQft7GU1qB15MyzpQHTBsHTJ8ErqTJWpXkUZ | 
 |[Neuro Bot ](https://www.fxhash.xyz/u/NeuroBot)|Concrete #119 - 123| onqpDKFuXwHa58C99FVqNEyj2WPSsy9bL6m8HHkokRUpdAaE8mG |
-|[QXj](https://www.fxhash.xyz/pkh/tz1UD776VXaa9Xb9anHGRxqdtzMpnqH24QXj)    |Concrete #124-128| | onrJSAVC45F9eyer3R6cUaFrLT98GBTGgmj9KHZNc4G7MTkrvA2|
+|[QXj](https://www.fxhash.xyz/pkh/tz1UD776VXaa9Xb9anHGRxqdtzMpnqH24QXj)    |Concrete #124-128| onrJSAVC45F9eyer3R6cUaFrLT98GBTGgmj9KHZNc4G7MTkrvA2|
