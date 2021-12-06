@@ -21,3 +21,4 @@ Join our discord: [discord](https://discord.gg/PQXYvMnD).
 - [📑 Code of Conduct](https://github.com/fxhash-wiki/fxhash-community-wiki/wiki/CODE-OF-CONDUCT)
 - [🎨 Artistis Ethic](https://github.com/fxhash-wiki/fxhash-community-wiki/wiki/THE-ARTISTIS-ETHIC)
 - [✍ todo](./todo)
+- [🍞 batch mints](./batch-mints)
