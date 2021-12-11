@@ -32,7 +32,6 @@ Request number dirived from polls
 | Advance filtering (market + collection                                                       | 35        |             |                |✅|
 | Filter to remove 100% minted proj                                                            |           |             |                |✅|
 | Secondary market stats                                                                       | 27        |             |                |✅|
-| Beta test role                                                                               | 26        |             |                |✅|
 | Dark theme                                                                                   | 11        |             |                |✅|
 | Sort feature (price/rarity/new/etc)                                                          | 10        |             |                |✅|
 | Burn feature                                                                                 | 10        |             |                |✅|
@@ -51,6 +50,7 @@ Request number dirived from polls
 | fxtime() for epoch datetime of mint                                                          | 5         |             |                |💬|
 | Full on chain svgs - no ifps dependency                                                      | 5         |             |                |💬|
 | fxiter() for iteraions                                                                       |           |             |                |💬|
+| Beta test role                                                                               | 26        |             |                |➡️|
 | Mint 0# to artist                                                                            | 23        |             |                |➡️|
 | Follow artists                                                                               | 12        |             |                |➡️|
 | Split contract                                                                               | 10        |             |                |➡️|
