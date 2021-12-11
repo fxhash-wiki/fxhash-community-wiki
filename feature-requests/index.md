@@ -16,7 +16,7 @@ Request number dirived from polls
 
 ➡️ = Next implementation
 
-❌ = Scrappef
+❌ = Shelved
 
 | Feature                                                                                      | Requested | Implimented | Community Poll | Triage |
 | -------------------------------------------------------------------------------------------- | --------- | :---------: | :------------: | :------------: |
