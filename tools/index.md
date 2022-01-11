@@ -21,3 +21,6 @@ Useful tools, links and resources for FXHash
 - NFTBiker FXHash live feed
 
   [link](https://nftbiker.xyz/live)
+- FXHash Monitor by @phil_osophie
+  
+  [link](https://fxhashmonitor.xyz/)
